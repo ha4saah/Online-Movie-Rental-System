@@ -1,0 +1,76 @@
+Kabir Singh,2019,4.99
+Gully Boy ,2019 ,3.99
+Andhadhun ,2018, 4.49
+Raazi ,2018 ,3.49
+Dangal ,2016 ,5.99
+PK ,2014 ,4.99
+Bajrangi Bhaijaan ,2015 ,4.49
+Chhichhore ,2019 ,3.99
+Tumbbad, 2018 ,3.99
+Queen ,2013 ,3.49
+Zindagi Na Milegi Dobara, 2011, 4.49
+Barfi! ,2012, 4.99
+Piku, 2015, 3.99
+Tamasha, 2015, 3.49
+Dil Dhadakne Do ,2015, 4.49
+Badhaai Ho ,2018 ,3.99
+Article 15, 2019, 4.49
+Super 30, 2019 ,4.99
+Sultan ,2016 ,4.49
+Bajrangi Bhaijaan ,2015, 4.99
+Kahaani ,2012, 3.99
+Tanu Weds Manu ,2011, 3.49
+Kahaani 2 ,2016 ,3.99
+Mardaani, 2014 ,3.49
+Mardaani 2 ,2019, 4.49
+Raees ,2017 ,4.99
+Simmba ,2018, 4.49
+Uri: The Surgical Strike, 2019 ,4.99
+Kabir Singh ,2019 ,4.99
+Chhichhore ,2019, 3.99
+Gully Boy ,2019 ,3.99
+Bajrangi Bhaijaan, 2015, 4.49
+Dangal ,2016, 5.99
+PK ,2014, 4.99
+Raazi ,2018, 3.49
+Andhadhun, 2018, 4.49
+Zindagi Na Milegi Dobara ,2011, 4.49
+Barfi! ,2012, 4.99
+Piku, 2015, 3.99
+Tamasha ,2015, 3.49
+Dil Dhadakne Do ,2015, 4.49
+Badhaai Ho ,2018, 3.99
+Article 15 ,2019 ,4.49
+Super 30 ,2019, 4.99
+Sultan ,2016 ,4.49
+Kahaani ,2012 ,3.99
+Tanu Weds Manu, 2011, 3.49
+Mardaani ,2014 ,3.49
+Mardaani 2 ,2019 ,4.49
+Raees ,2017 ,4.99
+Simmba ,2018 ,4.49
+Uri: The Surgical Strike ,2019, 4.99
+Kabir Singh ,2019, 4.99
+Chhichhore ,2019, 3.99
+Gully Boy ,2019 ,3.99
+Bajrangi Bhaijaan ,2015, 4.49
+Dangal, 2016, 5.99
+PK ,2014 ,4.99
+Raazi ,2018, 3.49
+Andhadhun ,2018 ,4.49
+Zindagi Na Milegi Dobara ,2011 ,4.49
+Barfi! ,2012, 4.99
+Piku, 2015, 3.99
+Tamasha ,2015 ,3.49
+Dil Dhadakne Do, 2015 ,4.49
+Badhaai Ho, 2018 ,3.99
+Article 15, 2019 ,4.49
+Super 30 ,2019 ,4.99
+Sultan, 2016 ,4.49
+Kahaani ,2012 ,3.99
+Tanu Weds Manu ,2011 ,3.49
+Mardaani ,2014 ,3.49
+Mardaani 2, 2019 ,4.49
+Raees, 2017 ,4.99
+Simmba ,2018 ,4.49
+Uri: The Surgical Strike, 2019 ,4.99
