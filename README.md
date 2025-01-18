@@ -10,7 +10,4 @@ This project is a backend implementation of an online movie rental system develo
 #Technologies
 1. C++
 
-#How to Run
-1. Download and extract the ZIP file.
-2. Compile the C++ code using a C++ compiler.
-3. Follow the instructions in the source code to set up and run the system.
+
